@@ -1,5 +1,5 @@
 import React from 'react'
-import Thing from '../../components/Thing/Thing
+import Thing from '../../components/Thing/Thing'
 
 const JamThings = (props) => {
   return ( 
